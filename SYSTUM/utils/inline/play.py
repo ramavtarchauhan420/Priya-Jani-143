@@ -69,10 +69,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿", url="http://t.me/RAM_HACKER_RP",
+                text="Ρяιмє", url="http://t.me/hindu_prime",
             ),
             InlineKeyboardButton(
-                text="𝗦𝘂𝗸𝗼𝗼𝗻", url="https://t.me/+FQF7rz0qM1MxMTk1",
+                text="Ααɾυ", url="https://t.me/+FQF7rz0qM1MxMTk1",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -91,10 +91,10 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿", url="http://t.me/RAM_HACKER_RP",
+                text="Ρяιмє", url="http://t.me/hindu_prime",
             ),
             InlineKeyboardButton(
-                text="𝗦𝘂𝗸𝗼𝗼𝗻", url="https://t.me/+FQF7rz0qM1MxMTk1",
+                text="Ααɾυ", url="https://t.me/+FQF7rz0qM1MxMTk1",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
